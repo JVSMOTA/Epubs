@@ -7,4 +7,5 @@
 </div>
 
 ## 🎯 Objetivo
-Repositório de Epubs que já li ou quero ler.
+Repositório de estudo dos Epubs que já li ou próximos que quero ler.
+
