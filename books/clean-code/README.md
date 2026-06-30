@@ -23,4 +23,4 @@
 
 1. O livro valeu a pena? Por quê?
 
->
+> Sim. O livro clean code é extremanente importante no consumo de ideias que devem fazer parte do programador na produção de códigos. Além disso, durante o livro é apresentado diversos exemplos de códigos que são melhorados, que é uma boa forma de aprender e entender como fazer melhorias em seus códigos. 
