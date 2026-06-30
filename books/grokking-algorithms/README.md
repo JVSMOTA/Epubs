@@ -23,4 +23,4 @@
 
 1. O livro valeu a pena? Por quê?
 
->
+> Com certeza. No primeiro capítulo é feito uma breve explicação sobre grandezas em tempos de execução, apresentando brevemente o "Big O" e introduzindo em problemas e algoritmos simples de busca binária entre outros, tal qual o caixeiro viajante.
